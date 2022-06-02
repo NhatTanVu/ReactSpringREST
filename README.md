@@ -1,2 +1,3 @@
 # ReactSpringREST
-Learn Spring frameworks integration with React by follow tutorial 
+Learn Spring framework supports for REST and React by following tutorial:<br/>
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
